@@ -133,5 +133,5 @@ void factnum()
 						{    
 						  fact=fact*i;    
 						}    
-					  printf("Factorial of %d is: %d",number,fact);   
+					  printf("Factorial abc of %d is: %d",number,fact);   
 	}
